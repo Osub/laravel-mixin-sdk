@@ -5,12 +5,12 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "ExinOne\\MixinSDK\\": "src/"
+            "ExinOneFix\\MixinSDK\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "ExinOne\\MixinSDK\\Tests\\": "tests/"
+            "ExinOneFix\\MixinSDK\\Tests\\": "tests/"
         }
     },
     "require": {
@@ -28,10 +28,10 @@
     "extra": {
         "laravel": {
             "providers": [
-                "ExinOne\\MixinSDK\\MixinSDKServiceProvider"
+                "ExinOneFix\\MixinSDK\\MixinSDKServiceProvider"
             ],
             "aliases": {
-                "MixinClient": "ExinOne\\MixinSDK\\Facades\\MixinSDK"
+                "MixinClient": "ExinOneFix\\MixinSDK\\Facades\\MixinSDK"
             }
         }
     }
