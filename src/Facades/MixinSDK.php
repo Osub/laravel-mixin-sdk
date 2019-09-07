@@ -6,7 +6,7 @@
  * Time: 下午12:20
  */
 
-namespace ExinOne\MixinSDK\Facades;
+namespace ExinOneFix\MixinSDK\Facades;
 
 use Illuminate\Support\Facades\Facade;
 
