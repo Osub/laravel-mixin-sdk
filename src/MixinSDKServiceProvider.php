@@ -6,7 +6,7 @@
  * Time: 上午11:12
  */
 
-namespace ExinOne\MixinSDK;
+namespace ExinOneFix\MixinSDK;
 
 use Illuminate\Support\ServiceProvider;
 
